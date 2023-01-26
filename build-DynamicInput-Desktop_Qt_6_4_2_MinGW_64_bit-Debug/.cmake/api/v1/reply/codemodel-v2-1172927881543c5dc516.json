@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0b1acd2055549cfbc436.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DynamicInput",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DynamicInput::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DynamicInput-Debug-5e216855fe7b94a5b1e8.json",
+					"name" : "DynamicInput",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DynamicInput_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DynamicInput_autogen-Debug-e75fccf5986711f21678.json",
+					"name" : "DynamicInput_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DynamicInput_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DynamicInput_autogen_timestamp_deps-Debug-a6995abcc5eea4a16d45.json",
+					"name" : "DynamicInput_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DynamicInput_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DynamicInput_qmlimportscan-Debug-aa3cc9e8ccda59a0377c.json",
+					"name" : "DynamicInput_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/hasnaine/Documents/QT Practice/Dynamic Input/build-DynamicInput-Desktop_Qt_6_4_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/hasnaine/Documents/QT Practice/Dynamic Input/DynamicInput"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
